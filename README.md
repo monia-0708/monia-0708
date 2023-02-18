@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/MonikaLaskowska"><img src="https://api.daily.dev/devcards/c8a8bc94fc3c4de4a906e1af722884ad.png?r=jvz" width="200" alt="Monika's Dev Card"/></a>
 <!--
 **monia-0708/monia-0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
